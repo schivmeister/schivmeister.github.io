@@ -49,11 +49,19 @@ from writing anymore gibberish.
 Abrupt end.
 
 [0] Or schiv, schivmeister and Ray (but this now conflicts with the name of my younger brother).
+
 [1] http://www.humanmetrics.com/cgi-win/jtypes2.asp
+
 [2] https://www.youtube.com/watch?v=OM6XIICm_qo
+
 [3] https://le.ac.uk/
+
 [4] Short forms for _financial technology_ and _regulatory technology_.
+
 [5] https://nl.linkedin.com/in/markmuyres
+
 [6] https://www.codementor.io/rashif
+
 [7] http://archlinux.org/
+
 [8] I am also a has-been musician and post-production audio engineer.
