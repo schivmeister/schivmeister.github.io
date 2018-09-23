@@ -53,7 +53,7 @@ Abrupt end.
 
 [0] Or schiv, schivmeister and Ray (but this now conflicts with the name of my younger brother).
 
-[1] [http://www.humanmetrics.com/cgi-win/jtypes2.asp](The Jung Typology Test)
+[1] (http://www.humanmetrics.com/cgi-win/jtypes2.asp)
 
 [2] [https://www.youtube.com/watch?v=OM6XIICm_qo] and [https://www.zdnet.com/article/knowledge-graphs-beyond-the-hype-getting-knowledge-in-and-out-of-graphs-and-databases/]
 
