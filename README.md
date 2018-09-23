@@ -53,25 +53,24 @@ Abrupt end.
 
 [0] Or schiv, schivmeister and Ray (but this now conflicts with the name of my younger brother).
 
-[1] http://www.humanmetrics.com/cgi-win/jtypes2.asp
+[1] [http://www.humanmetrics.com/cgi-win/jtypes2.asp]
 
-[2] https://www.youtube.com/watch?v=OM6XIICm_qo and
-https://www.zdnet.com/article/knowledge-graphs-beyond-the-hype-getting-knowledge-in-and-out-of-graphs-and-databases/
+[2] [https://www.youtube.com/watch?v=OM6XIICm_qo] and [https://www.zdnet.com/article/knowledge-graphs-beyond-the-hype-getting-knowledge-in-and-out-of-graphs-and-databases/]
 
-[3] https://www.linkedin.com/company/fimantic/
+[3] [https://www.linkedin.com/company/fimantic/]
 
 [4] Officially, it would be "Knowledge Engineer", and sometimes "Tech Lead". In
 terms of a title, it would be "CTO", but at an early-stage startup titles mean
 very little.
 
-[5] https://le.ac.uk/
+[5] [https://le.ac.uk/]
 
 [6] Short forms for _financial technology_ and _regulatory technology_.
 
-[7] https://nl.linkedin.com/in/markmuyres
+[7] [https://nl.linkedin.com/in/markmuyres]
 
-[8] https://www.codementor.io/rashif
+[8] [https://www.codementor.io/rashif]
 
-[9] http://archlinux.org/
+[9] [http://archlinux.org/]
 
 [10] I am also a has-been musician and post-production audio engineer.
