@@ -18,9 +18,9 @@ wearing multiple hats, so a clear definition of role is difficult. [4]
 
 Aside from _ontology engineering_ my primary function is to figure out patterns
 in texts, structure them into a _machine-readable_ form, and determine
-practically everything else needed to code/build (primarily in Java) a
-modern software- or web-based intelligent agent based on a "bottom-up"
-_symbolic AI_ approach. So, mostly, _knowledge engineering_.
+practically everything else needed to code/build (primarily in Java) a modern
+software- or web-based intelligent agent based on a "top-down" _symbolic AI_
+approach. So, mostly, _knowledge engineering_.
 
 It all started thanks to my Computer Science MSc at the University of Leicester
 (UK) [5] and a stint with a European stealth FinTech/RegTech [6] startup, which
