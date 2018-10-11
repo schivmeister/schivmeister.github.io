@@ -51,6 +51,12 @@ from writing anymore gibberish.
 
 Abrupt end.
 
+More:
+
+[My New Medium Profile](https://medium.com/@schivmeister)
+[My Old/Legacy Blog](http://schivmeister.wordpress.com/)
+
+
 [0] Or schiv, schivmeister and Ray (but this now conflicts with the name of my younger brother).
 
 [1] [The Jung Typology Test](http://www.humanmetrics.com/cgi-win/jtypes2.asp)
