@@ -53,9 +53,10 @@ Abrupt end.
 
 More:
 
-[My New Medium Profile](https://medium.com/@schivmeister)
+[My Medium Articles](https://medium.com/@schivmeister)
 [My Old/Legacy Blog](http://schivmeister.wordpress.com/)
 
+Footnotes:
 
 [0] Or schiv, schivmeister and Ray (but this now conflicts with the name of my younger brother).
 
@@ -75,7 +76,7 @@ very little.
 
 [7] [Founder of Fimantic on LinkedIn](https://nl.linkedin.com/in/markmuyres)
 
-[8] [My Codementor Profile](https://www.codementor.io/rashif)
+[8] [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/rashif?utm_source=github&utm_medium=button&utm_term=rashif&utm_campaign=github)
 
 [9] [Website of Arch Linux](http://archlinux.org/)
 
