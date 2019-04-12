@@ -76,7 +76,7 @@ very little.
 
 [7] [Founder of Fimantic on LinkedIn](https://nl.linkedin.com/in/markmuyres)
 
-[8] [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/rashif?utm_source=github&utm_medium=button&utm_term=rashif&utm_campaign=github)
+[8] [Get help on Codementor](https://www.codementor.io?referral=rashif-1czlgqp1yj) or [hire on Codementor](https://hire.codementor.io?referral=rashif-1czlgqp1yj) (use my referrals for a faster onboarding experience)
 
 [9] [Website of Arch Linux](http://archlinux.org/)
 
