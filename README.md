@@ -9,14 +9,16 @@ I am a practitioner of [knowledge science](https://www.infoworld.com/article/344
 What that all means is that I "work in IT" and, some might say, "in tech", or "in AI". I mostly "telecommute" (or telework) and, some might say, "work from home" (WFH). We have the Internet
 and the Web to thank for making collaboration and communication so easy and effective (for the most part). I hear, however, that AI is going to take over most of our jobs, so I'd love to hear about any exciting ideas you have to make the world a better place, before doomsday comes.
 
-Consulting:
-- Senior Knowledge Engineer, [BlackSwan Technologies](https://blackswantechnologies.ai/)
-- Mentor, [Codementor](https://www.codementor.io/@rashif)
+Work:
+- Semantic Engineer, [Meaningfy](https://meaningfy.ws/)
 
 Projects:
 - Co-Founder, [Fimantic](https://fimantic.com/)
 - Founding member, [ZELOS](https://zelos.ai/)
 - Former contributor, [Arch Linux](https://archlinux.org/)
+
+Consulting:
+- Mentor, [Codementor](https://www.codementor.io/@rashif)
 
 Connect:
 - [Medium](https://medium.com/@schivmeister)
