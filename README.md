@@ -1,4 +1,4 @@
-# schivmeister.github.io
+# Schivmeister
 
 Hello, world! I am Rashif, and it seems you have found my bare-bones
 "website". I hope you like reading, because I tend to be very
